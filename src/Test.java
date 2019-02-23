@@ -11,4 +11,8 @@ public class Test {
 		}
 		
 	}
+	
+	private static void something() {
+		System.out.println("Do something");
+	}
 }
