@@ -12,8 +12,16 @@ public class Test {
 		System.out.println("Simon, i broke you project");
 		
 	}
+<<<<<<< HEAD
 	
 	private static void something() {
 		System.out.println("Do something");
 	}
+=======
+
+       private static void something() {
+             System.out.println("Do something");
+    }
+
+>>>>>>> fix
 }
